@@ -1,4 +1,3 @@
 Readme first
 
-
-var i = 1;
+Jane add this line
